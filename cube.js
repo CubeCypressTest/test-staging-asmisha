@@ -1,1 +1,1 @@
-module.exports={}; // from test
+module.exports={}; // from feature
