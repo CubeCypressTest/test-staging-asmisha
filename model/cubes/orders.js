@@ -1,5 +1,3 @@
-// orders cube
-
 cube(`orders`, {
   sql: `
     select 1 as id, 100 as amount, 'new' status
