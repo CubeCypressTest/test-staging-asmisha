@@ -36,5 +36,3 @@ cube(`orders`, {
     }
   }
 });
-
-// another file
