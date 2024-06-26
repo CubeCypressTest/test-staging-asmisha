@@ -29,6 +29,7 @@ cube(`orders`, {
       type: `sum`
     }
   },
+  
   dimensions: {
     status: {
       sql: `status`,
@@ -36,3 +37,4 @@ cube(`orders`, {
     }
   }
 });
+
